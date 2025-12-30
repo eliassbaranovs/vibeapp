@@ -2,6 +2,8 @@
 applyTo: "**"
 ---
 
+supabaseProjectID: "dzvadqpgdfgreoxadkry"
+
 ## Analyzing
 
 - Every time doing analysis we use supabase MCP to check database existing functions, tables, constraints, RCP functions and everything thats needed.
@@ -32,4 +34,4 @@ applyTo: "**"
 - Apply to production during low-traffic hours when possible
 - Check database state with MCP tools before and after changes
 - Document any destructive operations before executing
-- Supabase project id: ksoohvygoysofvtqdumz
+- Supabase project id: dzvadqpgdfgreoxadkry
